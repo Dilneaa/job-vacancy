@@ -4,3 +4,6 @@ Finding the right job or the right candidate can be a time-consuming and frustra
 
 sample of our project:  
 https://drive.google.com/file/d/1higpIIJySCPs-JOTXguL0jQUL1v24fLL/view?usp=drive_link
+
+hosted link
+https://dilneaa.github.io/job-vacancy/
